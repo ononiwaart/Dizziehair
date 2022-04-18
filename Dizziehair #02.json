@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #02",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/_0kd5O2c4aCVWi03EQHTh2ui0GQmMwd_3E7kSnYkoG4",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/_0kd5O2c4aCVWi03EQHTh2ui0GQmMwd_3E7kSnYkoG4",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Star Wing"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Corners"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"AB"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Hedgehog"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Calzone"
+        }
+    ]
+}
+            
