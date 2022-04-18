@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #05",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/0K7ZqLdCQn_TiMprawmaRwf7d5jp5RPhgE6ZewRsdoo",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/0K7ZqLdCQn_TiMprawmaRwf7d5jp5RPhgE6ZewRsdoo",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Aleyolai"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Hunterz"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"A"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Ospreys"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Sandwiches"
+        }
+    ]
+}
+            
