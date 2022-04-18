@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #04",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/P8wnlHwDdFx0hPyBEmMkzRySJW9oJYKRMa5D4F8wnzg",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/P8wnlHwDdFx0hPyBEmMkzRySJW9oJYKRMa5D4F8wnzg",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Pop Top"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Ballgang"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"AB"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Deer"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Carrot Cake"
+        }
+    ]
+}
+            
