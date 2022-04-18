@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #03",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/E-KyEmoXnTzj2PyVWyG3oK5KB4vC6kedmul5OKWnz9I",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/E-KyEmoXnTzj2PyVWyG3oK5KB4vC6kedmul5OKWnz9I",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Mao Mao"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Animo"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"B"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Cat"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Dried Fish"
+        }
+    ]
+}
+            
