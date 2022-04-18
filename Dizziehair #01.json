@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #01",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/EmCthD9GHKdvRT_0SjlT_oqgMVktHsWl3TLqa5tTgww",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/EmCthD9GHKdvRT_0SjlT_oqgMVktHsWl3TLqa5tTgww",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Blocquis"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"M3"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"AB"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Salamander"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Mapo Tofu"
+        }
+    ]
+}
+            
