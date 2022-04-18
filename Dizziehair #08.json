@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #08",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/u6VjRK-3mM_iBFturQwGFwK3aItvEik0FPcTJnbnAEc",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/u6VjRK-3mM_iBFturQwGFwK3aItvEik0FPcTJnbnAEc",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Ashborn"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Wavvy"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"AB"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Phanter"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Ribs"
+        }
+    ]
+}
+            
