@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #06",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/GnVe6GoOR_Okb_UHOdpLF3X2TzuhYqR-l_Oe5kJ6WIM",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/GnVe6GoOR_Okb_UHOdpLF3X2TzuhYqR-l_Oe5kJ6WIM",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Astro Boi"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Pointyy"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"B"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Chamois"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Strawberries"
+        }
+    ]
+}
+            
