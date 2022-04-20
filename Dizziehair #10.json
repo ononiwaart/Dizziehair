@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #10",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/5ZzrzyH6vM6g03KWnZisY_hDlqS8bzfTLN0z4U6eens",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/5ZzrzyH6vM6g03KWnZisY_hDlqS8bzfTLN0z4U6eens",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Ribown"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Rounders"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"A"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Starfish"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Chocolate Candy"
+        }
+    ]
+}
+            
