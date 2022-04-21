@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #16",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/KGSFzM3WvH0EiC8NITVV0ovwczFEna4JIhOmU_tPI0A",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/KGSFzM3WvH0EiC8NITVV0ovwczFEna4JIhOmU_tPI0A",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Speed Devil"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Pointyy"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"AB"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Bull"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Tater Tots"
+        }
+    ]
+}
+            
