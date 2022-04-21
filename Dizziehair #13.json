@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #13",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/rtFf5FhXdRvV5rxecmJOiX4GFxuCpfFD5pLnDz0pPmU",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/rtFf5FhXdRvV5rxecmJOiX4GFxuCpfFD5pLnDz0pPmU",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Boom Pop"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Hunterz"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"AB"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Gator"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Chimichanga"
+        }
+    ]
+}
+            
