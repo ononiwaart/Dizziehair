@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #14",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/zEgoTRnatkAb6hp-I8msrnwXVLOH9rC0iP-DiI5vmu0",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/zEgoTRnatkAb6hp-I8msrnwXVLOH9rC0iP-DiI5vmu0",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Starshine"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Coilly"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"B"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Labrador"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Meat Soup"
+        }
+    ]
+}
+            
