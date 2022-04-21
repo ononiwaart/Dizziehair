@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #15",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/S56zjU8sFjlYdTD8KLjDMuONFn1siQjDi4wZACiLoJE",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/S56zjU8sFjlYdTD8KLjDMuONFn1siQjDi4wZACiLoJE",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Cleomata"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Pointyy"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"A"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Sphinx Cat"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Kofta"
+        }
+    ]
+}
+            
