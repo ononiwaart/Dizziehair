@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #11",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/Rl77ZflwWixlCpBPtA3CtJ7KJoYz5lFy5oYRPZWLx-Y",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/Rl77ZflwWixlCpBPtA3CtJ7KJoYz5lFy5oYRPZWLx-Y",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Usagi"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Animo"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"O"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Rabbit"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Carrot"
+        }
+    ]
+}
+            
