@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #04",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/G6bCt4qLdj0mNPyncos8Jc_lVxxDedUK6RTv2UclhAM",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/G6bCt4qLdj0mNPyncos8Jc_lVxxDedUK6RTv2UclhAM",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Oriental Blast"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Ballgang"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"O"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Gecko"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Bacon"
+        }
+    ]
+}
+            
