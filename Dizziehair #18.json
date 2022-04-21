@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #18",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/xFBLJr0OlBOjNSH44ttz2ivVvU9FqFTMLp0gQtUHAIE",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/xFBLJr0OlBOjNSH44ttz2ivVvU9FqFTMLp0gQtUHAIE",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Kitsuka"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Animo"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"A"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Red Fox"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Swikee"
+        }
+    ]
+}
+            
