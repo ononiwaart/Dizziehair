@@ -1,0 +1,44 @@
+{
+    "name":"Dizziehair #23",
+    "symbol":"DZHG",
+    "image":"https://arweave.net/Wz8muwYRFaTG2bs0JoTWj_pLdhcVErDnwg1ZkmcaBhQ",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/Wz8muwYRFaTG2bs0JoTWj_pLdhcVErDnwg1ZkmcaBhQ",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
+                "share": 100
+            }
+        ]
+    },
+    "sellerFeeBasisPoints":1000,
+    "attributes":[
+        {
+            "trait_type":"Hairstyle",
+            "value":"Fracta"
+        },
+        {
+            "trait_type":"Gang",
+            "value":"Rounders"
+        },
+        {
+            "trait_type":"Blood Type",
+            "value":"A"
+        },
+        {
+            "trait_type":"Spirit Animal",
+            "value":"Addax"
+        },
+        {
+            "trait_type":"Likes",
+            "value":"Chicken Tenders"
+        }
+    ]
+}
+            
